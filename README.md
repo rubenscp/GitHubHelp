@@ -2,11 +2,11 @@
 
 ## Commands
 
-git status 
+1. git status 
 
-git clone "url copiada do GitHub"
+2. git clone "url copiada do GitHub"
 
-git remote -v 
+3. git remote -v 
 
 git add . = adiciona tudo da pasta 
 
