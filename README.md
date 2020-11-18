@@ -2,7 +2,8 @@
 
 ## Commands
 
-* git status 
+* git status
+- xxx
 
 * git clone "url copiada do GitHub"
 
