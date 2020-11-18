@@ -1,7 +1,6 @@
 # GitHubHelp
 
-Git Commands
-============
+## Commands
 
 git status 
 
