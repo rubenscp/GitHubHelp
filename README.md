@@ -3,7 +3,7 @@
 ## Commands
 
 * git status
-- xxx
+  - xxx
 
 * git clone "url copiada do GitHub"
 
