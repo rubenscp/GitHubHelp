@@ -1,6 +1,6 @@
-# GitHubHelp
+GitHubHelp
 
-## Commands
+Commands
 
 * git status
   - 
