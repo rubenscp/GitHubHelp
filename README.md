@@ -1,14 +1,10 @@
-GitHubHelp
-
-Commands
-
+GitHubHelp - Commands
 * git status
-  - 
+  - xx
 * git clone "url copiada do GitHub"
-  - 
-
+  - xx
 * git remote -v 
-  - 
+  - xx
 * git add . 
   - adiciona tudo da pasta 
 * git commit -m "mensagem "
