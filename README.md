@@ -18,3 +18,15 @@
   - lista os ramos (branches) do repositório
 * git log
   - lista os commits
+  
+  
+  
+* git checkout -b "branch name"
+  - cria uma nova brach
+  
+1) git status 
+2) git add .
+3) git commit -m "mensagem "
+4) git push orign "nome_branch"
+  
+ 
