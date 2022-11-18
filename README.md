@@ -24,10 +24,11 @@
 * git checkout -b "branch name"
   - cria uma nova brach
   
-1) git status 
-2) git add .
-3) git commit -m "mensagem "
-4) git push orign "nome_branch"
+* sequencia básica
+- git status 
+- git add .
+- git commit -m "mensagem "
+- git push orign "nome_branch"
   
 * git log - visualiza as ações no git da mais recente para a mais antiga
 
