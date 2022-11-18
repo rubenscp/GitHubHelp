@@ -29,4 +29,9 @@
 3) git commit -m "mensagem "
 4) git push orign "nome_branch"
   
- 
+* git log - visualiza as ações no git da mais recente para a mais antiga
+
+* git reset --soft HEAD~1 : cancela o última commit >> Muito útil para desfazer commits locais e corrigir situações de falhas ao se tentar fazer o push.
+
+* git pull origin rcp/vaccination-proximity  : atualiza localmente os arquivos remotos (Github)
+
