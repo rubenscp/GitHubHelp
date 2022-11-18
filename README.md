@@ -25,10 +25,10 @@
   - cria uma nova brach
   
 * sequencia básica
-- git status 
-- git add .
-- git commit -m "mensagem "
-- git push orign "nome_branch"
+  - git status 
+  - git add .
+  - git commit -m "mensagem "
+  - git push orign "nome_branch"
   
 * git log - visualiza as ações no git da mais recente para a mais antiga
 
