@@ -22,7 +22,7 @@
   
   
 * git checkout -b "branch name"
-  - cria uma nova brach
+  - cria uma nova branch
   
 * sequencia básica
   - git status 
