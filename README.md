@@ -18,6 +18,9 @@
   - lista os ramos (branches) do repositório
 * git log
   - lista os commits
+*The command to delete a local git branch can take one of two forms:
+  - git branch –delete old-branch
+  - git branch -d old-branch
   
   
   
