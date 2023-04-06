@@ -39,3 +39,6 @@
 
 * git pull origin rcp/vaccination-proximity  : atualiza localmente os arquivos remotos (Github)
 
+* The command to delete a local git branch can take one of two forms:
+  - git branch –delete old-branch
+  - git branch -d old-branch
