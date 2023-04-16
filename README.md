@@ -21,9 +21,7 @@
 *The command to delete a local git branch can take one of two forms:
   - git branch –delete old-branch
   - git branch -d old-branch
-  
-  
-  
+    
 * git checkout -b "branch name"
   - cria uma nova branch
   
@@ -31,7 +29,7 @@
   - git status 
   - git add .
   - git commit -m "mensagem "
-  - git push orign "nome_branch"
+  - git push origin "nome_branch"
   
 * git log - visualiza as ações no git da mais recente para a mais antiga
 
