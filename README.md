@@ -40,3 +40,6 @@
 * The command to delete a local git branch can take one of two forms:
   - git branch –delete old-branch
   - git branch -d old-branch
+
+* reset commits locais e força sincronizar local e remoto. ATENÇÃo: antes de tudo, faça backup de todo o projeto.
+  - git reset --hard origin/master
