@@ -43,3 +43,6 @@
 
 * reset commits locais e força sincronizar local e remoto. ATENÇÃo: antes de tudo, faça backup de todo o projeto.
   - git reset --hard origin/master
+
+* git stash - guarda na pilha as alterações locais para posterior commit e push
+* git restore "Tarefa 03/T3_Unsupervised_Learning.ipynb"
