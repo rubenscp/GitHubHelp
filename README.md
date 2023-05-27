@@ -45,5 +45,5 @@
   - git reset --hard origin/master
 
 * git stash - guarda na pilha as alterações locais para posterior commit e push
-* git restore "Tarefa 03/T3_Unsupervised_Learning.ipynb"
-   - descarta alterações locais
+* git restore - descarta as alterações locais no arquivo específico e permite as próximas operações.
+   - git restore "nome do arquivo"
